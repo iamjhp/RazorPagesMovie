@@ -6,16 +6,7 @@
     <projectFile profileName="https">RazorPagesMovie/RazorPagesMovie.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="648b79e3-1520-4bf3-85c6-b3cea3845e26" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.RazorPagesMovie/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RazorPagesMovie/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RazorPagesMovie/Migrations/20230212221627_InitialCreate.Designer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RazorPagesMovie/Migrations/20230212221627_InitialCreate.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RazorPagesMovie/Migrations/RazorPagesMovieContextModelSnapshot.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RazorPagesMovie/Pages/Shared/_Layout.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/RazorPagesMovie/Pages/Shared/_Layout.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RazorPagesMovie/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RazorPagesMovie/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RazorPagesMovie/RazorPagesMovie.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/RazorPagesMovie/RazorPagesMovie.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RazorPagesMovie/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/RazorPagesMovie/appsettings.json" afterDir="false" />
-    </list>
+    <list default="true" id="648b79e3-1520-4bf3-85c6-b3cea3845e26" name="Changes" comment="Finish: Razor Pages - Work with a database" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -111,8 +102,16 @@
       <workItem from="1676247034760" duration="9061000" />
       <workItem from="1676326846739" duration="148000" />
       <workItem from="1676327035164" duration="2893000" />
-      <workItem from="1676330001415" duration="740000" />
+      <workItem from="1676330001415" duration="1637000" />
     </task>
+    <task id="LOCAL-00001" summary="Finish: Razor Pages - Work with a database">
+      <created>1676331050482</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676331050482</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,5 +124,7 @@
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Finish: Razor Pages - Work with a database" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finish: Razor Pages - Work with a database" />
   </component>
 </project>
