@@ -6,11 +6,16 @@
     <projectFile profileName="https">RazorPagesMovie/RazorPagesMovie.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="648b79e3-1520-4bf3-85c6-b3cea3845e26" name="Changes" comment="Add: Migrations &amp; Models">
+    <list default="true" id="648b79e3-1520-4bf3-85c6-b3cea3845e26" name="Changes" comment="Finish: Razor Pages - Add search">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.RazorPagesMovie/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.RazorPagesMovie/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RazorPagesMovie/Migrations/RazorPagesMovieContextModelSnapshot.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RazorPagesMovie/Migrations/RazorPagesMovieContextModelSnapshot.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/RazorPagesMovie/Models/Movie.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RazorPagesMovie/Models/Movie.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RazorPagesMovie/Models/SeedData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RazorPagesMovie/Models/SeedData.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RazorPagesMovie/Pages/Movies/Create.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/RazorPagesMovie/Pages/Movies/Create.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RazorPagesMovie/Pages/Movies/Delete.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/RazorPagesMovie/Pages/Movies/Delete.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RazorPagesMovie/Pages/Movies/Details.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/RazorPagesMovie/Pages/Movies/Details.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RazorPagesMovie/Pages/Movies/Edit.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/RazorPagesMovie/Pages/Movies/Edit.cshtml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/RazorPagesMovie/Pages/Movies/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/RazorPagesMovie/Pages/Movies/Index.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RazorPagesMovie/Pages/Movies/Index.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/RazorPagesMovie/Pages/Movies/Index.cshtml.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +112,7 @@
       <workItem from="1676247034760" duration="9061000" />
       <workItem from="1676326846739" duration="148000" />
       <workItem from="1676327035164" duration="2893000" />
-      <workItem from="1676330001415" duration="8473000" />
+      <workItem from="1676330001415" duration="13828000" />
     </task>
     <task id="LOCAL-00001" summary="Finish: Razor Pages - Work with a database">
       <created>1676331050482</created>
@@ -123,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676332116149</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Finish: Razor Pages - Add search">
+      <created>1676419342273</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1676419342273</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,6 +150,26 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Finish: Razor Pages - Work with a database" />
     <MESSAGE value="Add: Migrations &amp; Models" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add: Migrations &amp; Models" />
+    <MESSAGE value="Finish: Razor Pages - Add search" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finish: Razor Pages - Add search" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/RazorPagesMovie/Models/SeedData.cs</url>
+          <line>8</line>
+          <properties documentPath="C:\Users\JHP\RiderProjects\RazorPagesMovie\RazorPagesMovie\Models\SeedData.cs" initialLine="8" containingFunctionPresentation="method 'Initialize'">
+            <startOffsets>
+              <option value="204" />
+            </startOffsets>
+            <endOffsets>
+              <option value="205" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
